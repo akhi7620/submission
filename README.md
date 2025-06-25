@@ -1,12 +1,25 @@
-# Basic Calculator
+# Student Record Management System
 
-This is a simple console-based calculator application implemented in Java. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+A simple Java CLI application to manage student records (Add, View, Update, Delete) using an ArrayList.
+
+## How to Compile and Run
+
+1. Open a terminal in this directory.
+2. Compile:
+   ```
+   javac Student.java StudentManagementSystem.java
+   ```
+3. Run:
+   ```
+   java StudentManagementSystem
+   ```
 
 ## Features
+- Add a student
+- View all students
+- Update a student
+- Delete a student
 
-- **Addition**: Add two numbers.
-- **Subtraction**: Subtract one number from another.
-- **Multiplication**: Multiply two numbers.
-- **Division**: Divide one number by another (with error handling for division by zero).
+---
 
-## Project Structure
+This project is for educational purposes.
